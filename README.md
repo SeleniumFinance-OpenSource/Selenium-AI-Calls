@@ -4,11 +4,23 @@ A secure, AI-powered calling app with hybrid encryption, real-time audio process
 
 ## Features
 - Hybrid encryption (Signal Protocol, CRYSTALS-Kyber, ZRTP)
+
+Combines Signal Protocol, CRYSTALS-Kyber (post-quantum), and ZRTP for secure communication.
+
 - AI audio processing (noise reduction, autotranslation, voice correction)
+  
+Local AI for noise reduction (RNNoise), autotranslation (Whisper), voice correction, and deepfake detection.
+
 - Deepfake detection and digital watermarking
+
 - Adaptive privacy (self-destructing messages, encrypted attachments)
+
 - SOS broadcast with biometric authentication
+
 - WebRTC for low-latency calls
+
+WebRTC with modifications for <100ms latency.
+
 - Matrix protocol integration
 
 # LICENSE
