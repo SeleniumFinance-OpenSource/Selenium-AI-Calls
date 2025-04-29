@@ -1,5 +1,6 @@
 # Selenium-AI-Calls
 A secure, AI-powered calling app with hybrid encryption, real-time audio processing, deepfake protection, and adaptive privacy.
+<p align="center"><img width="720" height="463" src="AI Calls Chat.png" alt="Defi Bot interface" /></p>
 
 ## Features
 - Hybrid encryption (Signal Protocol, CRYSTALS-Kyber, ZRTP)
